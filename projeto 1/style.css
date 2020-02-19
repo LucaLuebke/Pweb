@@ -1,0 +1,72 @@
+body{
+    background-color: yellow;
+}
+.picole
+{
+    margin-top: 50px;
+    width: 200px;
+    height: 400px;
+    background-color: pink;
+    margin-left: 25%;
+    border-top-left-radius:75px;
+    border-top-right-radius:75px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    /* border-radius: 50px; */
+}
+.pauzin
+{
+    width: 50px;
+    height: 150px;
+    background-color: #795548;
+    margin-left: 41.5%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+.olho
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: rgb(235, 62, 152);
+    position: absolute;
+    top:50%;
+}
+.direito
+{
+    right: 38.5%;
+}
+.esquerdo
+{
+    left: 31.5%;
+}
+.boca{
+    position: absolute;
+    top: 65%;
+    left: 36%;
+    width: 100px;
+    height: 20px;
+    background-color: rgb(235, 62, 152);
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.baga
+{
+    width: 15px;
+    height: 15px;
+    margin-top: 18%;
+    margin-left: 17px;
+    background-color: #fff;
+    border-radius: 15px;
+}
+.sombra
+{
+    margin-left: 40%;
+    position: absolute;
+    background-color: #33251f;
+    width: 50px;
+    height: 25px;
+}
